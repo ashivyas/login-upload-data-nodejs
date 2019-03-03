@@ -6,12 +6,10 @@ NodeJS + ExpressJS + MongoDB API for User Management, Authentication, Registrati
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
-modify config.json with three properties
-add connectionString for Mongodb, fromEmail and mailchimpApikey 
-Run following commands in shell
-git clone https://github.com/ashivyas/login-upload-data-nodejs.git
-npm i
-nodemon server.js
+* modify config.json with three properties : connectionString for Mongodb, fromEmail and mailchimpApikey 
+* clone the directory git clone https://github.com/ashivyas/login-upload-data-nodejs.git
+* Run following command in the shell npm i & nodemon server.js
+   
 
 ### Prerequisites
 
@@ -27,12 +25,8 @@ Ashish Vyas
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-
-a. What has been completed: all tasks
-
-b. What is not completed: API Definition
-
-c. Deployment steps: mentioned above
-   
-e. Known bugs
+* What has been completed: all tasks
+* What is not completed: API Definition
+* Deployment steps: mentioned above
+* Known bugs
    
