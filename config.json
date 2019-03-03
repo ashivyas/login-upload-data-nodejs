@@ -1,0 +1,6 @@
+﻿{
+    "connectionString": "",
+    "secret": "gethyphen-login-secret",
+    "fromEmail": "",
+    "mailchimpApikey": ""
+}
